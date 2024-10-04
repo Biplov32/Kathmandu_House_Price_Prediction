@@ -56,8 +56,6 @@ Several regression models were trained and evaluated on the cleaned dataset. The
      ```
 
 3. **Model Performance:**
-   - The model achieved the following metrics:
-     - **Best Score from GridSearchCV (negative mean squared error):** -0.3178
      - **R² score on the test set:** 0.686
 
 ---
